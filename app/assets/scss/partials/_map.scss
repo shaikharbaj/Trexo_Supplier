@@ -1,0 +1,46 @@
+.TrexoPro-codeVmapPrimary path {
+  @apply fill-primary;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-primary;
+  }
+}
+.TrexoPro-codeVmapWhite path {
+  @apply fill-default-200 dark:fill-slate-500;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-default-500 dark:fill-slate-200;
+  }
+}
+
+.TrexoPro-codeVmapInfo path {
+  @apply fill-info;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-info;
+  }
+}
+
+.TrexoPro-codeVmapWarning path {
+  @apply fill-warning;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-warning;
+  }
+}
+
+.TrexoPro-codeVmapSuccess path {
+  @apply fill-success;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-success;
+  }
+}
+
+.TrexoPro-codevmap path {
+  @apply fill-primary;
+
+  .svg-map__location[aria-checked="true"] {
+    @apply fill-primary;
+  }
+}

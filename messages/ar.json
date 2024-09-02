@@ -1,0 +1,12 @@
+{
+  "Menu": {
+    "menu": "قائمة طعام",
+    "Dashboard": "لوحة القيادة"
+  },
+  "DashboardPage": {
+    "welcome": "مرحباً",
+    "back": "خلف",
+    "dashboard": "لوحة القيادة",
+    "analytics": "تحليلات"
+  }
+}
